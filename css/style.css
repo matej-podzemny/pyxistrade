@@ -169,7 +169,7 @@ font-size: 48px;
 	text-transform: uppercase;
 	padding: 15px 20px;
 		border-radius: 0px;
-	transition: box-shadow 0.5s, 
+	transition: box-shadow 0.5s,
 	-webkit-box-shadow 0.5s;
 	font-weight: 600;
 	font-size: 90%;
@@ -441,7 +441,7 @@ box-shadow: 3px 5px 40px 10px rgba(255,210,2,0.47);
 	}
 	.hutni-row, .pozarni-row{
 		text-align: center;
-		
+
 	}
 	.sklad-text {
 		margin-left: auto;

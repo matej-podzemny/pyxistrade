@@ -72,7 +72,7 @@ body {
 }
 .testcol5 li{
 	position:relative;
-	display:inline-block; 
+	display:inline-block;
 	width: 19%;
 	height:234px;
 	background: #e3e3e3;
@@ -137,7 +137,7 @@ visibility: hidden;
 }
 .overlay2wrap {
 	width: 100%;
-	height: 100%;	
+	height: 100%;
 }
 
 .img-container {
@@ -155,21 +155,24 @@ visibility: hidden;
 	width: 181px;
     width: auto;
     height: auto;
-    position: absolute;  
-    top: 0;  
-    bottom: 0;  
-    left: 0;  
-    right: 0;  
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
     margin: auto;
 }
 .zkusenosti-number {
-	font-size: 90px;
+	font-size: 72px;
 	color: #ff7200;
 	font-weight: 300;
 }
 .text-next-zkusenosti {
 	margin-left: 20px;
 	margin-top: 20px;
+}
+.just-margin {
+    ma: -9px;
 }
 .kvalita-text-row h1 {
 	color: #313131;
@@ -217,7 +220,8 @@ visibility: hidden;
 .btn-firma {
 	color: #313131;
 	padding: 15px 45px;
-	margin: 35px 0 120px 0;
+	margin-top: 35px;
+    margin-bottom: 130px;
 }
 .btn-firma:hover {
 	color: #313131;
@@ -402,7 +406,7 @@ visibility: hidden;
 	}
 	.col-odstud-dlouhodoba {
 	padding-right: 15px;
-}	
+}
 	.col-odstud-dlouhodoba hr {
 		margin: 0 auto;
 		float: none;

@@ -29,11 +29,11 @@
 				<div class="col-lg-4">
 				<h3 class="text-right">Sídlo společnosti</h3>
 								<div class="row bot30"></div>
-				<p class="text-right odkazyblock location">			<img src="img/location_icon_footer.png" alt="" class="imagefooterlocation"> 
+				<p class="text-right odkazyblock location">			<img src="img/location_icon_footer.png" alt="" class="imagefooterlocation">
 							Vsetín - Zlínský kraj <br>
 							PSČ: 755 01 <br>
-							Ulice: 4. května 1491
-					<a href="https://www.google.cz/maps/place/4.+května+1491,+755+01+Vset%C3%ADn/@49.3446924,17.9825443,17z/data=!3m1!4b1!4m5!3m4!1s0x47138354070271b3:0x584a1592edc5627d!8m2!3d49.3446924!4d17.984733">Zobrazit na mapě >></a>
+							Ulice: Bobrky 2270
+					<a href="https://www.google.cz/maps/place/Bobrky,+755+01+Vset%C3%ADn/@49.3635929,17.9625069,17z/data=!3m1!4b1!4m5!3m4!1s0x47139b5cb67c987b:0x3708e76b5c6ba7e8!8m2!3d49.3635894!4d17.9646956">Zobrazit na mapě >></a>
 				</p>
 			</div>
 			</footer>
