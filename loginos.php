@@ -1,4 +1,6 @@
-<?php include 'db.php'; 
+<?php include 'db.php';
+    header("Location: http://www.pyxistrade.cz/index.html");
+    exit();
 	if (isset($_GET['login_error'])) {
 		$login_err = '';
 		if ($_GET['login_error'] == 'empty') {
